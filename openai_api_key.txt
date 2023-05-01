@@ -1,0 +1,6 @@
+OpenAI_api_key:
+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
+
+PythonData(Python3.9.12)
+
+https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/8/chatbot
